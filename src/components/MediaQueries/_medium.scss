@@ -1,0 +1,39 @@
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .section-introduction {
+    padding-top: 30px;
+  }
+
+  /* .navbar-brand {
+        margin-left: 5px;
+        max-width: 110px;
+        width: 100%;
+      } */
+
+  .img-logo {
+    max-width: 150px;
+  }
+
+  /* iNTRODUCTION */
+  .introduction-inner {
+    // min-height: 900px;
+    top: 55%;
+  }
+
+  .introduction-title {
+    font-size: 55px;
+  }
+
+  .introduction-subtitle {
+    font-size: 35px;
+  }
+
+  .introduction-btn {
+    font-size: 18px;
+    padding: 18px 60px;
+  }
+
+  /* .menu-btn {
+        display: flex;
+      } */
+}

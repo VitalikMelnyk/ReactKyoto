@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.78e60c9b.chunk.js",
+    "main.js.map": "/static/js/main.78e60c9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.69a3c108.js",
+    "runtime-main.js.map": "/static/js/runtime-main.69a3c108.js.map",
+    "static/css/2.e04697c9.chunk.css": "/static/css/2.e04697c9.chunk.css",
+    "static/js/2.7c3978c3.chunk.js": "/static/js/2.7c3978c3.chunk.js",
+    "static/js/2.7c3978c3.chunk.js.map": "/static/js/2.7c3978c3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.02df6ee3af6c29fbc9e9b102ead91149.js": "/precache-manifest.02df6ee3af6c29fbc9e9b102ead91149.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.e04697c9.chunk.css.map": "/static/css/2.e04697c9.chunk.css.map",
+    "static/js/2.7c3978c3.chunk.js.LICENSE": "/static/js/2.7c3978c3.chunk.js.LICENSE",
+    "static/media/GroupBackX2.png": "/static/media/GroupBackX2.9e934beb.png",
+    "static/media/andy.png": "/static/media/andy.94925932.png",
+    "static/media/backgroundBg.png": "/static/media/backgroundBg.057412d9.png",
+    "static/media/don.png": "/static/media/don.d56d8503.png",
+    "static/media/dragonroll.png": "/static/media/dragonroll.418d868d.png",
+    "static/media/gunkan.png": "/static/media/gunkan.f18ebadc.png",
+    "static/media/katsuroll.png": "/static/media/katsuroll.d4de6587.png",
+    "static/media/nigiri.png": "/static/media/nigiri.58dd98df.png",
+    "static/media/norimaki.png": "/static/media/norimaki.3cc6def3.png",
+    "static/media/sashimi.png": "/static/media/sashimi.3a4841a1.png",
+    "static/media/slick-theme.scss": "/static/media/slick.f97e3bbf.svg",
+    "static/media/sticks.png": "/static/media/sticks.5e850a19.png",
+    "static/media/uberUnsBackground.png": "/static/media/uberUnsBackground.861d8ab3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69a3c108.js",
+    "static/css/2.e04697c9.chunk.css",
+    "static/js/2.7c3978c3.chunk.js",
+    "static/js/main.78e60c9b.chunk.js"
+  ]
+}

@@ -1,0 +1,37 @@
+
+.uberUns-container {
+    min-height: 500px;
+    align-self: center;
+    display: flex;
+    // padding-top: 120px;
+    margin-top: 100px;
+}
+
+.uberUns-slider {
+    background: url('../../assets/uberUns/uberUnsBackground.png') center no-repeat / 700px;
+    margin-right: 85px;
+
+     .slider-item-img {
+        max-width: 340px;
+    }
+     .carousel {
+        margin-top: 70px;
+     }
+}
+
+.uberUns-description {
+    margin-left: 15px;
+    padding: 0 55px 0 66px;
+    
+}
+
+.uberUns-title {
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+}
+
+.uberUns-text {
+    font-size: 27px;
+    font-weight: 550;
+}

@@ -1,0 +1,11 @@
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .introduction-inner {
+    margin-top: 55px;
+  }
+
+  .introduction-btn {
+    /* font-size: 28px; */
+    padding: 15px 55px;
+  }
+}

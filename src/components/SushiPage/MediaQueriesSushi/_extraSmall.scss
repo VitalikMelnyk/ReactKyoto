@@ -1,0 +1,40 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .section-sushi {
+      padding-top: 7px;
+      > .--sushi-desk {
+        justify-content: center;
+      }
+    }
+    .section-sushi-inner {
+      padding-top: 0px;
+      margin-top: 25px;
+    }
+  
+    .sushi-set-item {
+      width: 95px;
+      height: 140px;
+      justify-content: center;
+    }
+    //   .sushi-set-item.--someWordsItem {
+    //     justify-content: baseline;
+    //     margin-top: 0px;
+    //     transform: translateY(-8px);
+    // }
+    .sushi-set-img {
+      // max-width: 80px;
+      max-height: 90px;
+      width: 100%;
+      height: 100%;
+    }
+    .sushi-set-text {
+      font-size: 20px;
+    }
+  
+    .sushi-card {
+      // display: none;
+    }
+    .container-description-desk {
+      // display: none;
+    }
+  }

@@ -1,0 +1,31 @@
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .section-introduction {
+    padding-top: 30px;
+  }
+
+  .navbar-brand {
+    margin-left: 5px;
+    max-width: 110px;
+    width: 100%;
+  }
+
+  .introduction-inner {
+    /* min-height: 900px; */
+    /* margin-top: 120px; */
+    margin-top: 50px;
+  }
+
+  .introduction-title {
+    font-size: 70px;
+  }
+
+  .introduction-subtitle {
+    font-size: 40px;
+  }
+
+  .introduction-btn {
+    font-size: 28px;
+    padding: 20px 55px;
+  }
+}

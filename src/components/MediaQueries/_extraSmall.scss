@@ -1,0 +1,66 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .section-introduction {
+    padding-top: 7px;
+  }
+
+  /* lOGO */
+
+  .brand {
+    margin-left: 5px;
+
+    max-width: 130px;
+    // width: 100%;
+  }
+
+  .img-logo {
+    max-width: 110px;
+    margin: 10px 20px 10px 8px;
+  }
+
+  /* USUAL NAVIGATION */
+
+  .nav-list {
+    display: none;
+  }
+
+  /* BURGER MENU */
+
+  .menu-btn {
+    display: flex;
+    right: 30px;
+    top: 37px;
+  }
+
+  #menu-toggle:checked ~ .menu-box {
+    visibility: visible;
+    right: 0;
+    width: 100%;
+  }
+
+  /* INTRODUCTION */
+
+  .introduction-inner {
+    margin: 0;
+    top: 50%;
+  }
+
+  .introduction-description {
+    margin-top: 70px;
+  }
+
+  .introduction-title {
+    font-size: 28px;
+  }
+
+  .introduction-subtitle {
+    font-size: 20px;
+    margin-bottom: 50px;
+  }
+
+  .introduction-btn {
+    font-size: 13px;
+    padding: 13px 55px 15px;
+    vertical-align: middle;
+  }
+}

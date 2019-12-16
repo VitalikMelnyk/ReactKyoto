@@ -1,0 +1,41 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+}
+
+* {
+  box-sizing: border-box;
+
+  &::after,
+  &::before {
+    box-sizing: border-box;
+  }
+}
+
+/* Section-introduction first page */
+
+.section-introduction {
+  // You need to change path in background
+  background: url("../assets/background/GroupBackX2.png") center no-repeat /
+    cover;
+  width: 100vw;
+  height: 100vh;
+  /* min-height: 100vh; */
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.section-sushi-page,
+.section-uberUns,
+.section-contacts {
+  // You need to change path in background
+  background: url("../assets/background/backgroundBg.png") center no-repeat /
+    cover;
+  width: 100vw;
+  height: 100vh;
+  /* min-height: 100vh; */
+  padding-top: 30px;
+  display: flex;
+  flex-direction: column;
+}
